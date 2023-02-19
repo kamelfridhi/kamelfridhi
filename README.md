@@ -1,10 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kamel+Fridhi!;&center=true&size=30">
+  </a>
+</h1>
 
 <!--
 **kamelfridhi/kamelfridhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Languages
-<rect xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="#E14E1D" rx="60"/>
+
 Learning
 
 Software & Programs
