@@ -32,7 +32,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,grafana,prometheus,sonarqube,nexus,dockerhub" />
+    <img src="https://skillicons.dev/icons?i=jenkins,grafana,prometheus,sonarqube,nexus,dockerhub,docker" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 <h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/kamelfridhi/kamelfridhi/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/kamelfridhi/kamelfridhi/output/github-contribution-grid-snake.svg">
 </div>
 
 <hr>
