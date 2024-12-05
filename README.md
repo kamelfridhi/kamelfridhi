@@ -5,11 +5,11 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Kamel Fridhi, Computer Engineering Student 🥷,  Learner 👨‍💻 & gamer 🦸‍♂️ from Tunisia TN
+  Hi, I'm Kamel Fridhi, Full Stack Web Developer & DevOps Engineering Student 🥷,  Learner 👨‍💻 & gamer 🦸‍♂️ from Tunisia TN
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently studying as Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a>
+  🧑‍💼 I’m currently studying as Computer Engineering Student <a href="https://esprit.tn">ESPRIT</a>
   <br>
 </p>
 <div align="center"> 
