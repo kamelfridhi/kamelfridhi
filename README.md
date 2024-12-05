@@ -44,8 +44,9 @@
 <h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contribution" src="https://kamelfridhi.github.io/kamelfridhi/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://kamelfridhi.github.io/kamelfridhi/snake.svg">
 </div>
+
 
 
 
