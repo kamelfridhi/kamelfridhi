@@ -31,16 +31,20 @@
 <h2 align="center">🔧 DevOps Tools 🔧</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,grafana,prometheus,sonarqube,nexus,dockerhub,docker" />
-  </a>
+  <a href="https://jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-CB2029?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+  <a href="https://prometheus.io" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
+  <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" /></a>
+  <a href="https://www.sonatype.com/products/nexus-repository" target="_blank"><img src="https://img.shields.io/badge/Nexus-4E4E4E?style=for-the-badge&logo=nexus&logoColor=white" /></a>
+  <a href="https://hub.docker.com" target="_blank"><img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 <hr>
 <h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/kamelfridhi/kamelfridhi/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://github.com/kamelfridhi/kamelfridhi/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 <hr>
